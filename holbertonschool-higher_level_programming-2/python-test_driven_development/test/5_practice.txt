@@ -1,0 +1,11 @@
+Using ``5_practice``
+----------------------
+	
+>>> divide = __import__('5_practice').divide
+
+>>> divide(4, 5)
+0.8
+
+>>> divide(3, 0)
+Traceback (most recent call last):
+ZeroDivisionError: division by zero
