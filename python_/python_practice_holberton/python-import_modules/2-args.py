@@ -1,0 +1,3 @@
+
+def dato(argc,argv**)
+	

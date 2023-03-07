@@ -1,0 +1,17 @@
+d = {'clave1':[1,2,3],
+        4:True
+}
+d[4]= "hola"
+
+print(list(d.items())[0:2])
+
+
+"""
+d = {'clave1':[1,2,3],
+	4:True
+}
+d[4]= "hola"
+
+print d[0:2]
+
+"""
